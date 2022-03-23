@@ -122,8 +122,26 @@
 
   2.2 Ejemplos de cálculo de probabilidad
   2.3 Ejemplos avanzados con probabilidad
+
 3 Distribuciones de probabilidad
   3.1 ¿Qué es una distribución?
+
+  Distribuciones de Probabilidad/ funcion densidad
+  Es la función que relaciona una variable aleatoria con sus probabilidades.
+  Convención de notación:
+  X → variable aleatoria
+  x → valores posibles del espacio muestral
+  Tipos de distribución según el dominio
+
+  Discretos → cuando el dominio (valores de entrada) es discontinuo (numeros enteros)
+  Continuo → cuando el dominio de la variable aleatoria es continua, acepta todos los valores reales
+  Distribución acumulada
+  Se refiere a la suma de las probabilidades, por lo tanto en el caso de una variable continua sería la integral de la función distribución
+
+  Nota:
+
+  Llamamos histograma a la funcion densidad de una variable discreta
+
   3.2 Distrubuciones discretas
   3.3 Usando la distribución normal
   3.4 Distribuciones continuas
