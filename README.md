@@ -19,7 +19,7 @@ In this repository we can see what is the general propose for descriptive statis
 Probability for Data Science.
 
 <!--ts-->
-   * [What is probability?](what-is-probability?)
+   * [What is probability?](#what-is-probability)
       * [Descriptive statistics vs statistics inference](#descriptive-statistics-vs-statistics-inference)
         * [Why learn statistics?](#why-learn-statistics)
       * [Workflow in data science](#workflow-in-data-science)

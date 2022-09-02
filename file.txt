@@ -143,6 +143,12 @@
   Llamamos histograma a la funcion densidad de una variable discreta
 
   3.2 Distrubuciones discretas
+    3.2.1 Distribución Binomial:
+    3.2.2 Distribución de Poisson:
+    3.2.3 Distribución geométrica:
+    3.2.4 Distribución binomial negativa: ...
+    3.2.5 Distribución hipergeométrica:
+
   3.3 Usando la distribución normal
   3.4 Distribuciones continuas
   3.5 ¿Como estimar una distribución?
