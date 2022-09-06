@@ -2,41 +2,22 @@
 
 ## Required
 
-Installation:
-
-    pip install pandas pip install seaborn
-
 
 ## Description
-
-This is a repository where I write about descriptive statistics oriented for Machine Learnig and Data Science. 
-
-In this repository we can see what is the general propose for descriptive statistics and we also get knowlage for try to diference between descriptive statistics and inferencial statistics.
 
 
 ## Table of Contents (Optional)
 
 Probability for Data Science.
 
-<!--ts-->
-   * [What is probability?](#what-is-probability)
-      * [Descriptive statistics vs statistics inference](#descriptive-statistics-vs-statistics-inference)
-        * [Why learn statistics?](#why-learn-statistics)
-      * [Workflow in data science](#workflow-in-data-science)
-        * [Flow](#flow)
-   * [Descriptive statistics for analytics](#descriptive-statistics-for-analytics)
-      * [Data types in inferential statistics](#data-types-in-inferential-statistics)
-      * [Measures of central tendency](#measures-of-central-tendency)
-        * [Mean or average → mean(df)](#mean-or-average→mean(df))
-        * [Median → median(df)](#median→median(df))
-        * [Mode](#mode)
-        * [Application and Notes in Python Deepnote](#application-and-notes-in-python-deepnote)
-      * [Measures of dispersion](#measures-of-dispersion)
-        * [Standard deviation](#standard-deviation)
-        * [Dispersion measures in Python](#dispersion-measures-in-python)
-        * [Limits for outlier detection with symmetrically distributed data](#limits-for-outlier-detection-with-symmetrically-distributed-data)
-      * [Visual exploration of data](#visual-exploration-of-data)  
-        * [Scatter Plots in Data Analysis](#scatter-plots-in-data-analysis)
+
+   * [Uncertainty and probability](#uncertainty-and-probability)
+      * [What is probability?](#descriptive-statistics-vs-statistics-inference)
+      * [Probability in machine learning](#probability-in-machine-learning)
+   * [Basics of probability](#basics-of-probability)
+      * [Types of probability](#types-of-probability])
+      * [Probability Calculation Examples](#probability-calculation-examples)        
+      * [Advanced examples with probability](#advanced-examples-with-probability)  
    * [Statistics on data ingestion](#statistics-on-data-ingestion)
       * [Processing pipelines for numeric variables](#processing-pipelines-for-numeric-variables)
         * [Linear scaling](#linear-scaling)
@@ -72,10 +53,9 @@ In other words, probability is a language that allows us to quantify uncertainty
 Descriptive Statistics vs Statistics inference
 -----------
 
-Estadística descriptiva: resumir un historial de datos.
+Descriptive statistics: Summarize a history of data.
 
-Estadística inferencial: predecir con datos.
-
+Inferential statistics: predict with data
 
 Why learn statistics?
 -----------
