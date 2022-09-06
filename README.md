@@ -11,25 +11,25 @@
 Probability for Data Science.
 
 
+
+
+
+
+
+
    * [Uncertainty and probability](#uncertainty-and-probability)
       * [What is probability?](#descriptive-statistics-vs-statistics-inference)
       * [Probability in machine learning](#probability-in-machine-learning)
    * [Basics of probability](#basics-of-probability)
-      * [Types of probability](#types-of-probability])
+      * [Types of probability](#types-of-probability)
       * [Probability Calculation Examples](#probability-calculation-examples)        
       * [Advanced examples with probability](#advanced-examples-with-probability)  
-   * [Statistics on data ingestion](#statistics-on-data-ingestion)
-      * [Processing pipelines for numeric variables](#processing-pipelines-for-numeric-variables)
-        * [Linear scaling](#linear-scaling)
-        * [Linear Scaling Types](#linear-scaling-types)
-        * [Linear transformations in Python](#linear-transformations-in-python)
-        * [Nonlinear transformation](#nonlinear-transformation)
-        * [Nonlinear transformations in Python](#nonlinear-transformations-in-python)
-      * [Processing pipelines for categorical variables](#processing-pipelines-for-categorical-variables)
-        * [Categorical Data Processing in Python](#categorical-data-processing-in-python)
-      * [Covariance and correlation coefficient](#covariance-and-correlation-coefficient)  
-        * [Covariance matrix](#covariance-matrix)
-        * [Covariance matrix in Python](#covariance-matrix-in-python)
+   * [Probability distributions](#probability-distributions)
+      * [What is a distribution?](#what-is-a-distribution)
+      * [Discrete distributions](#discrete-distributions)
+      * [Using the binomial distribution](#using-the-binomial-distribution) 
+      * [Continuous distributions](#continuous-distributions)  
+      * [How to estimate a distribution?](#how-to-estimate-a-distribution)   
    * [Bonus: Pandas and Seaborn commands used in the course](#Bonus:-Pandas-and-Seaborn-commands-used-in-the-course)      
 <!--te-->
 
